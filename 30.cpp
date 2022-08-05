@@ -1,4 +1,4 @@
-//CPP PROGRAM TO OVERLOAD >GREATER THAN OPERATOR//
+//CPP PROGRAM TO OVERLOAD >GREATER THAN OPERATOR IN TIME CLASS//
 #include<iostream>
 #include<conio.h>
 using namespace std;
